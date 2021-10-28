@@ -1,4 +1,3 @@
-## Projeto de estudo VueJS
 ## Project setup
 ```
 npm install
